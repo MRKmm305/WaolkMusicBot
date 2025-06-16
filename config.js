@@ -11,7 +11,6 @@ module.exports = {
   commandsDir: './commands',  
   embedColor: "#1db954",
   activityName: "Music", 
-  activityType: "LISTENING",  // Available activity types : LISTENING , PLAYING
   SupportServer: "https://discord.gg/UQCE4fddaN",
   embedTimeout: 5, 
   errorLog: "", 
